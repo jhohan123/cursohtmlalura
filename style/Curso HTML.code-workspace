@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Curso HTML",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso HTML"
+	}
+}
